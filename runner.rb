@@ -3,6 +3,9 @@ require_relative 'config/environment'
 cli = Cli.new
 cli.start 
 
+def new
+end
+
 
 
 
